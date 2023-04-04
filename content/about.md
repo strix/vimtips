@@ -1,7 +1,7 @@
 +++
 path = "about"
 title = "about"
-date = "2018-04-01"
+date = "2017-09-01"
 +++
 This site is a collection of vim features or cool little tricks we've come across as we dive deeper and deeper into the wonderful Vim editor. It's a collaborative effort between me ([strix](https://github.com/strix)), [certifiedloud](https://github.com/certifiedloud), and [muscle-hamster](https://github.com/muscle-hamster). We're all using neovim at this point but the tips are mostly universal.
 
