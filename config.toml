@@ -47,6 +47,8 @@ menu_items = [
     {name = "github", url = "https://github.com/strix", newtab = true},
 ]
 
+page_titles = "page_only"
+
 # taxonomies = [
 #     {name = "tags"},
 # ]
